@@ -1,17 +1,15 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.12.21)  3 MAY 2017 22:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.2.26)  3 MAY 2017 23:45
 entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
-**cheatsheet.tex
-(./cheatsheet.tex
-LaTeX2e <2016/02/01>
-Babel <3.9q> and hyphenation patterns for 5 language(s) loaded.
-(/usr/share/texlive/texmf-dist/tex/latex/extsizes/extarticle.cls
+**./cheatsheet.tex
+(cheatsheet.tex
+LaTeX2e <2015/10/01> patch level 2
+Babel <3.9n> and hyphenation patterns for 69 languages loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\extsizes\extarticle.cls"
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/extsizes/size9.clo
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\extsizes\size9.clo"
 File: size9.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/base/exscale.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\exscale.sty"
 Package: exscale 2014/09/29 v2.1h Standard LaTeX package exscale
 LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 57.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
@@ -32,41 +30,41 @@ LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 \belowcaptionskip=\skip42
 \bibindent=\dimen103
 )
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2016/03/03 v2.15a AMS math features
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip43
 
 For additional information on amsmath, use the `?' option.
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
-Package: amstext 2000/06/29 v2.01 AMS text
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
-File: amsgen.sty 1999/11/30 v2.0 generic functions
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks14
 \ex@=\dimen104
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
-Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen105
 )
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count87
-LaTeX Info: Redefining \frac on input line 199.
+LaTeX Info: Redefining \frac on input line 210.
 \uproot@=\count88
 \leftroot@=\count89
-LaTeX Info: Redefining \overline on input line 297.
+LaTeX Info: Redefining \overline on input line 306.
 \classnum@=\count90
 \DOTSCASE@=\count91
-LaTeX Info: Redefining \ldots on input line 394.
-LaTeX Info: Redefining \dots on input line 397.
-LaTeX Info: Redefining \cdots on input line 518.
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
 \Mathstrutbox@=\box26
 \strutbox@=\box27
 \big@size=\dimen106
-LaTeX Font Info:    Redeclaring font encoding OML on input line 630.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 631.
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 \macc@depth=\count92
 \c@MaxMatrixCols=\count93
 \dotsspace@=\muskip10
@@ -87,34 +85,34 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 631.
 \multlinegap=\skip44
 \multlinetaggap=\skip45
 \mathdisplay@stack=\toks18
-LaTeX Info: Redefining \[ on input line 2735.
-LaTeX Info: Redefining \] on input line 2736.
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks19
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
-File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
-Package graphics Info: Driver file: pdftex.def on input line 95.
+Package graphics Info: Driver file: pdftex.def on input line 94.
 
-(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count99
@@ -122,18 +120,18 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen113
 \Gin@req@width=\dimen114
 )
-(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
 Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count100
@@ -148,11 +146,12 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layouthoffset=\dimen121
 \Gm@layoutvoffset=\dimen122
 \Gm@dimlist=\toks20
-)
-(/usr/share/texlive/texmf-dist/tex/latex/mathtools/mathtools.sty
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mathtools\mathtools.sty"
 Package: mathtools 2015/11/12 v1.18 mathematical typesetting tools
 
-(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\calc.sty"
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count103
 \calc@Bcount=\count104
@@ -165,7 +164,7 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count105
 \calc@Cskip=\skip48
 )
-(/usr/share/texlive/texmf-dist/tex/latex/mathtools/mhsetup.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mathtools\mhsetup.sty"
 Package: mhsetup 2010/01/21 v1.2a programming setup (MH)
 )
 LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
@@ -182,7 +181,7 @@ LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
 \l_MT_above_shortintertext_sep=\dimen130
 \l_MT_below_shortintertext_sep=\dimen131
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\multicol.sty"
 Package: multicol 2015/08/19 v1.8n multicolumn formatting (FMi)
 \c@tracingmulticols=\count107
 \mult@box=\box28
@@ -230,7 +229,8 @@ Package: multicol 2015/08/19 v1.8n multicolumn formatting (FMi)
 \mult@nat@firstbox=\box52
 \colbreak@box=\box53
 \mc@col@check@num=\count115
-) (./cheatsheet.aux)
+)
+(cheatsheet.aux)
 \openout1 = `cheatsheet.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
@@ -245,7 +245,8 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
-(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count116
 \scratchdimen=\dimen141
@@ -258,50 +259,7 @@ LaTeX Font Info:    ... okay on input line 8.
 \MPnumerator=\count120
 \makeMPintoPDFobject=\count121
 \everyMPtoPDFconversion=\toks22
-) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-)
-Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
-
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
-))
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)))
-Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 452.
-
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-))
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -344,7 +302,7 @@ Missing character: There is no Ä in font cmr9!
 Missing character: There is no ô in font cmr9!
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+{C:/Users/Swilery/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 Missing character: There is no ‚ in font cmr9!
 Missing character: There is no Ä in font cmr9!
 Missing character: There is no ô in font cmr9!
@@ -370,26 +328,26 @@ Missing character: There is no ‚ in font cmr9!
 Missing character: There is no Ä in font cmr9!
 Missing character: There is no ì in font cmr9!
 
-<fragmentation.png, id=16, 271.76532pt x 95.6072pt>
+<fragmentation.png, id=15, 271.76532pt x 95.6072pt>
 File: fragmentation.png Graphic file (type png)
  <use fragmentation.png>
 Package pdftex.def Info: fragmentation.png used on input line 129.
 (pdftex.def)             Requested size: 271.76465pt x 95.60695pt.
 
-<dfwmac-pcf1.png, id=17, 224.33812pt x 91.84312pt>
+<dfwmac-pcf1.png, id=16, 224.33812pt x 91.84312pt>
 File: dfwmac-pcf1.png Graphic file (type png)
  <use dfwmac-pcf1.png>
 Package pdftex.def Info: dfwmac-pcf1.png used on input line 133.
 (pdftex.def)             Requested size: 224.33757pt x 91.84288pt.
 
-<dfwmac-pcf2.png, id=18, 225.09094pt x 93.34875pt>
+<dfwmac-pcf2.png, id=17, 225.09094pt x 93.34875pt>
 File: dfwmac-pcf2.png Graphic file (type png)
  <use dfwmac-pcf2.png>
 Package pdftex.def Info: dfwmac-pcf2.png used on input line 135.
 (pdftex.def)             Requested size: 225.09038pt x 93.34851pt.
 
 [2 <./fragmentation.png> <./dfwmac-pcf1.png>]
-<infrastructuresynchronization.png, id=23, 230.36063pt x 75.28125pt>
+<infrastructuresynchronization.png, id=22, 230.36063pt x 75.28125pt>
 File: infrastructuresynchronization.png Graphic file (type png)
 
 <use infrastructuresynchronization.png>
@@ -397,7 +355,7 @@ Package pdftex.def Info: infrastructuresynchronization.png used on input line 1
 51.
 (pdftex.def)             Requested size: 230.36005pt x 75.28105pt.
 
-<adhocsynchronization.png, id=24, 232.61906pt x 100.12407pt>
+<adhocsynchronization.png, id=23, 232.61906pt x 100.12407pt>
 File: adhocsynchronization.png Graphic file (type png)
 
 <use adhocsynchronization.png>
@@ -413,7 +371,7 @@ Missing character: There is no ‚ in font cmr9!
 Missing character: There is no Ä in font cmr9!
 Missing character: There is no ô in font cmr9!
 
-<dijkstra.png, id=25, 188.95593pt x 146.04562pt>
+<dijkstra.png, id=24, 188.95593pt x 146.04562pt>
 File: dijkstra.png Graphic file (type png)
  <use dijkstra.png>
 Package pdftex.def Info: dijkstra.png used on input line 187.
@@ -423,7 +381,7 @@ zation.png>]
 Missing character: There is no ‚ in font cmr9!
 Missing character: There is no Ä in font cmr9!
 Missing character: There is no ô in font cmr9!
-<distancevector.png, id=29, 245.41687pt x 164.11313pt>
+<distancevector.png, id=28, 245.41687pt x 164.11313pt>
 File: distancevector.png Graphic file (type png)
 
 <use distancevector.png>
@@ -438,7 +396,7 @@ Missing character: There is no ô in font cmr9!
 Missing character: There is no ‚ in font cmr9!
 Missing character: There is no Ä in font cmr9!
 Missing character: There is no ô in font cmr9!
- <gre.png, id=30, 134.00063pt x 11.29219pt>
+ <gre.png, id=29, 134.00063pt x 11.29219pt>
 File: gre.png Graphic file (type png)
 
 <use gre.png>
@@ -483,13 +441,13 @@ Missing character: There is no ô in font cmr9!
 Missing character: There is no ‚ in font cmr9!
 Missing character: There is no Ä in font cmr9!
 Missing character: There is no ì in font cmr9!
- <dtnsummary1.png, id=40, 230.36063pt x 145.29282pt>
+ <dtnsummary1.png, id=39, 230.36063pt x 145.29282pt>
 File: dtnsummary1.png Graphic file (type png)
  <use dtnsummary1.png>
 Package pdftex.def Info: dtnsummary1.png used on input line 297.
 (pdftex.def)             Requested size: 230.36005pt x 145.29245pt.
 
-<dtnsummary2.png, id=41, 222.07968pt x 143.78719pt>
+<dtnsummary2.png, id=40, 222.07968pt x 143.78719pt>
 File: dtnsummary2.png Graphic file (type png)
  <use dtnsummary2.png>
 Package pdftex.def Info: dtnsummary2.png used on input line 299.
@@ -498,7 +456,7 @@ Missing character: There is no ‚ in font cmr9!
 Missing character: There is no Ä in font cmr9!
 Missing character: There is no ô in font cmr9!
 
-<checksum.png, id=42, 249.93375pt x 70.01157pt>
+<checksum.png, id=41, 249.93375pt x 70.01157pt>
 File: checksum.png Graphic file (type png)
  <use checksum.png>
 Package pdftex.def Info: checksum.png used on input line 310.
@@ -549,50 +507,50 @@ Missing character: There is no ‚ in font cmr9!
 Missing character: There is no Ä in font cmr9!
 Missing character: There is no ô in font cmr9!
  [10]
-<moredetails.png, id=56, 197.23688pt x 88.07906pt>
+<moredetails.png, id=55, 197.23688pt x 88.07906pt>
 File: moredetails.png Graphic file (type png)
  <use moredetails.png>
 Package pdftex.def Info: moredetails.png used on input line 387.
 (pdftex.def)             Requested size: 197.23637pt x 88.07883pt.
 
-<srwaa.png, id=57, 247.67531pt x 101.62968pt>
+<srwaa.png, id=56, 247.67531pt x 101.62968pt>
 File: srwaa.png Graphic file (type png)
  <use srwaa.png>
 Package pdftex.def Info: srwaa.png used on input line 393.
 (pdftex.def)             Requested size: 247.6747pt x 101.62943pt.
 
-<blearchitecture.png, id=58, 185.19188pt x 140.02313pt>
+<blearchitecture.png, id=57, 185.19188pt x 140.02313pt>
 File: blearchitecture.png Graphic file (type png)
 
 <use blearchitecture.png>
 Package pdftex.def Info: blearchitecture.png used on input line 397.
 (pdftex.def)             Requested size: 185.1914pt x 140.02278pt.
- <dualmodestack.png, id=59, 76.78688pt x 112.92188pt>
+ <dualmodestack.png, id=58, 76.78688pt x 112.92188pt>
 File: dualmodestack.png Graphic file (type png)
 
 <use dualmodestack.png>
 Package pdftex.def Info: dualmodestack.png used on input line 397.
 (pdftex.def)             Requested size: 76.78668pt x 112.92159pt.
  [11 <./moredetails.png> <./srwaa.png>]
-<llstatemachine.png, id=63, 182.93344pt x 121.95563pt>
+<llstatemachine.png, id=62, 182.93344pt x 121.95563pt>
 File: llstatemachine.png Graphic file (type png)
 
 <use llstatemachine.png>
 Package pdftex.def Info: llstatemachine.png used on input line 402.
 (pdftex.def)             Requested size: 182.93298pt x 121.9553pt.
- <advertising.png, id=64, 230.36063pt x 68.50594pt>
+ <advertising.png, id=63, 230.36063pt x 68.50594pt>
 File: advertising.png Graphic file (type png)
 
 <use advertising.png>
 Package pdftex.def Info: advertising.png used on input line 404.
 (pdftex.def)             Requested size: 230.36005pt x 68.50577pt.
- <datatransaction.png, id=65, 218.31563pt x 75.28125pt>
+ <datatransaction.png, id=64, 218.31563pt x 75.28125pt>
 File: datatransaction.png Graphic file (type png)
 
 <use datatransaction.png>
 Package pdftex.def Info: datatransaction.png used on input line 408.
 (pdftex.def)             Requested size: 218.31508pt x 75.28105pt.
- <latency.png, id=66, 166.37157pt x 87.32625pt>
+ <latency.png, id=65, 166.37157pt x 87.32625pt>
 File: latency.png Graphic file (type png)
 
 <use latency.png>
@@ -606,7 +564,7 @@ Missing character: There is no Ä in font cmr9!
 Missing character: There is no ì in font cmr9!
  [12 <./blearchitecture.png> <./dualmodestack.png> <./llstatemachine.png> <./ad
 vertising.png> <./datatransaction.png> <./latency.png>]
-<harvestingaware.png, id=70, 234.1247pt x 95.6072pt>
+<harvestingaware.png, id=69, 234.1247pt x 95.6072pt>
 File: harvestingaware.png Graphic file (type png)
  <use harvestingaware.png>
 Package pdftex.def Info: harvestingaware.png used on input line 420.
@@ -723,13 +681,13 @@ Missing character: There is no ô in font cmr9!
 Missing character: There is no ‚ in font cmr9!
 Missing character: There is no Ä in font cmr9!
 Missing character: There is no ô in font cmr9!
- <mac.png, id=80, 209.28188pt x 94.85437pt>
+ <mac.png, id=79, 209.28188pt x 94.85437pt>
 File: mac.png Graphic file (type png)
  <use mac.png>
 Package pdftex.def Info: mac.png used on input line 485.
 (pdftex.def)             Requested size: 209.28134pt x 94.85413pt.
 
-<ds.png, id=81, 231.86626pt x 148.30406pt>
+<ds.png, id=80, 231.86626pt x 148.30406pt>
 File: ds.png Graphic file (type png)
  <use ds.png>
 Package pdftex.def Info: ds.png used on input line 491.
@@ -744,7 +702,7 @@ Missing character: There is no ì in font cmr9!
 Missing character: There is no ‚ in font cmr9!
 Missing character: There is no Ä in font cmr9!
 Missing character: There is no ì in font cmr9!
- <8021x.png, id=86, 230.36063pt x 162.6075pt>
+ <8021x.png, id=85, 230.36063pt x 162.6075pt>
 File: 8021x.png Graphic file (type png)
  <use 8021x.png>
 Package pdftex.def Info: 8021x.png used on input line 503.
@@ -753,7 +711,7 @@ Missing character: There is no ‚ in font cmr9!
 Missing character: There is no Ä in font cmr9!
 Missing character: There is no ì in font cmr9!
 
-<pdrss.png, id=87, 242.40562pt x 61.73062pt>
+<pdrss.png, id=86, 242.40562pt x 61.73062pt>
 File: pdrss.png Graphic file (type png)
  <use pdrss.png>
 Package pdftex.def Info: pdrss.png used on input line 521.
@@ -765,7 +723,7 @@ ion
  []
 
 [16 <./8021x.png> <./pdrss.png>]
-<ariadnerreq.png, id=91, 191.9672pt x 149.05687pt>
+<ariadnerreq.png, id=90, 191.9672pt x 149.05687pt>
 File: ariadnerreq.png Graphic file (type png)
  <use ariadnerreq.png>
 Package pdftex.def Info: ariadnerreq.png used on input line 549.
@@ -806,12 +764,6 @@ Missing character: There is no ì in font cmr9!
 Missing character: There is no ‚ in font cmr9!
 Missing character: There is no Ä in font cmr9!
 Missing character: There is no ì in font cmr9!
-Missing character: There is no ‚ in font cmr9!
-Missing character: There is no Ä in font cmr9!
-Missing character: There is no ú in font cmr9!
-Missing character: There is no ‚ in font cmr9!
-Missing character: There is no Ä in font cmr9!
-Missing character: There is no ù in font cmr9!
 Missing character: There is no ‚ in font cmr9!
 Missing character: There is no Ä in font cmr9!
 Missing character: There is no ì in font cmr9!
@@ -962,24 +914,6 @@ Missing character: There is no Ä in font cmr9!
 Missing character: There is no ì in font cmr9!
 Missing character: There is no ‚ in font cmr9!
 Missing character: There is no Ä in font cmr9!
-Missing character: There is no ú in font cmr9!
-Missing character: There is no ‚ in font cmr9!
-Missing character: There is no Ä in font cmr9!
-Missing character: There is no ù in font cmr9!
-Missing character: There is no ‚ in font cmr9!
-Missing character: There is no Ä in font cmr9!
-Missing character: There is no ú in font cmr9!
-Missing character: There is no ‚ in font cmr9!
-Missing character: There is no Ä in font cmr9!
-Missing character: There is no ù in font cmr9!
-Missing character: There is no ‚ in font cmr9!
-Missing character: There is no Ä in font cmr9!
-Missing character: There is no ú in font cmr9!
-Missing character: There is no ‚ in font cmr9!
-Missing character: There is no Ä in font cmr9!
-Missing character: There is no ù in font cmr9!
-Missing character: There is no ‚ in font cmr9!
-Missing character: There is no Ä in font cmr9!
 Missing character: There is no ì in font cmr9!
 Missing character: There is no ‚ in font cmr9!
 Missing character: There is no Ä in font cmr9!
@@ -1085,7 +1019,7 @@ Missing character: There is no Ä in font cmr9!
 Missing character: There is no ô in font cmr9!
 Missing character: There is no ‚ in font cmr9!
 Missing character: There is no Ä in font cmr9!
-Missing character: There is no ì in font cmr9!
+Missing character: There is no ô in font cmr9!
 Missing character: There is no ‚ in font cmr9!
 Missing character: There is no Ä in font cmr9!
 Missing character: There is no ¢ in font cmr9!
@@ -1149,7 +1083,12 @@ Missing character: There is no ì in font cmr9!
 Missing character: There is no Ô in font cmr9!
 Missing character: There is no ø in font cmr9!
 Missing character: There is no º in font cmr9!
- [18]
+ [18] <slyfi.png, id=97, 191.71625pt x 115.43124pt>
+File: slyfi.png Graphic file (type png)
+
+<use slyfi.png>
+Package pdftex.def Info: slyfi.png used on input line 630.
+(pdftex.def)             Requested size: 191.71577pt x 115.43095pt.
 Missing character: There is no ‚ in font cmr9!
 Missing character: There is no Ä in font cmr9!
 Missing character: There is no ¢ in font cmr9!
@@ -1169,7 +1108,7 @@ Missing character: There is no ‚ in font cmr9!
 Missing character: There is no Ä in font cmr9!
 Missing character: There is no ì in font cmr9!
 
-Underfull \hbox (badness 10000) in paragraph at lines 635--636
+Underfull \hbox (badness 10000) in paragraph at lines 636--637
 \OT1/cmr/bx/n/9 Wireless Com-mu-ni-ca-tion\OT1/cmr/m/n/9 : Medium: Ra-dio fre-q
 uency,
  []
@@ -1221,6 +1160,7 @@ Missing character: There is no ì in font cmbx9!
 Missing character: There is no Ô in font cmr9!
 Missing character: There is no ø in font cmr9!
 Missing character: There is no º in font cmr9!
+[19 <./slyfi.png>]
 Missing character: There is no ‚ in font cmr9!
 Missing character: There is no Ä in font cmr9!
 Missing character: There is no ì in font cmr9!
@@ -1230,33 +1170,32 @@ Missing character: There is no ô in font cmr9!
 Missing character: There is no ‚ in font cmr9!
 Missing character: There is no Ä in font cmr9!
 Missing character: There is no ¢ in font cmr9!
-[19] (./cheatsheet.aux) ) 
+ [20] (cheatsheet.aux) ) 
 Here is how much of TeX's memory you used:
- 3384 strings out of 494910
- 50752 string characters out of 6179835
- 157214 words of memory out of 5000000
- 6616 multiletter control sequences out of 15000+600000
- 8409 words of font info for 30 fonts, out of 8000000 for 9000
- 36 hyphenation exceptions out of 8191
- 38i,8n,32p,7124b,241s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmbx9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/
-cmex7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cm
-ex9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb
-></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/t
-exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmti7.pfb>
-Output written on cheatsheet.pdf (19 pages, 624584 bytes).
+ 3042 strings out of 493634
+ 44834 string characters out of 3141308
+ 134763 words of memory out of 3000000
+ 6392 multiletter control sequences out of 15000+200000
+ 8409 words of font info for 30 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 27i,8n,32p,7127b,241s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmbx9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cmextra/cmex7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cmextra/cmex9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmmi5.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmmi6.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmmi9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmr5.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr
+6.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pf
+b><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy5.pfb><
+C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/
+Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Pro
+gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti7.pfb>
+Output written on cheatsheet.pdf (20 pages, 668032 bytes).
 PDF statistics:
- 147 PDF objects out of 1000 (max. 8388607)
- 86 compressed objects within 1 object stream
+ 149 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 126 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 131 words of extra memory for PDF output out of 10000 (max. 10000000)
 
