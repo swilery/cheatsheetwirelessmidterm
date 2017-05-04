@@ -1,13 +1,22 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.2.2)  8 MAR 2017 21:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.2.2)  3 MAY 2017 18:35
 entering extended mode
 **./cheatsheet.tex
 (cheatsheet.tex
 LaTeX2e <2015/10/01> patch level 2
 Babel <3.9n> and hyphenation patterns for 69 languages loaded.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
-Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(C:\Users\Swilery\AppData\Roaming\MiKTeX\2.9\tex\latex\extsizes\extarticle.cls
+Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size10.clo"
 File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\exscale.sty"
+Package: exscale 2014/09/29 v2.1h Standard LaTeX package exscale
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+\big@size=\dimen102
 )
 \c@part=\count79
 \c@section=\count80
@@ -19,7 +28,7 @@ File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \c@table=\count86
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
-\bibindent=\dimen102
+\bibindent=\dimen103
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
 Package: amsmath 2013/01/14 v2.14 AMS math features
@@ -32,11 +41,11 @@ Package: amstext 2000/06/29 v2.01
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks14
-\ex@=\dimen103
+\ex@=\dimen104
 ))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d
-\pmbraise@=\dimen104
+\pmbraise@=\dimen105
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
 Package: amsopn 1999/12/14 v2.01 operator names
@@ -53,7 +62,7 @@ LaTeX Info: Redefining \dots on input line 381.
 LaTeX Info: Redefining \cdots on input line 466.
 \Mathstrutbox@=\box26
 \strutbox@=\box27
-\big@size=\dimen105
+\big@size=\dimen106
 LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 \macc@depth=\count92
@@ -66,12 +75,12 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 \column@=\count97
 \maxfields@=\count98
 \andhelp@=\toks16
-\eqnshift@=\dimen106
-\alignsep@=\dimen107
-\tagshift@=\dimen108
-\tagwidth@=\dimen109
-\totwidth@=\dimen110
-\lineht@=\dimen111
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
 \@envbody=\toks17
 \multlinegap=\skip44
 \multlinetaggap=\skip45
@@ -108,8 +117,8 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count99
 ))
-\Gin@req@height=\dimen112
-\Gin@req@width=\dimen113
+\Gin@req@height=\dimen113
+\Gin@req@width=\dimen114
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
@@ -128,14 +137,14 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@cnth=\count100
 \Gm@cntv=\count101
 \c@Gm@tempcnt=\count102
-\Gm@bindingoffset=\dimen114
-\Gm@wd@mp=\dimen115
-\Gm@odd@mp=\dimen116
-\Gm@even@mp=\dimen117
-\Gm@layoutwidth=\dimen118
-\Gm@layoutheight=\dimen119
-\Gm@layouthoffset=\dimen120
-\Gm@layoutvoffset=\dimen121
+\Gm@bindingoffset=\dimen115
+\Gm@wd@mp=\dimen116
+\Gm@odd@mp=\dimen117
+\Gm@even@mp=\dimen118
+\Gm@layoutwidth=\dimen119
+\Gm@layoutheight=\dimen120
+\Gm@layouthoffset=\dimen121
+\Gm@layoutvoffset=\dimen122
 \Gm@dimlist=\toks20
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
@@ -146,8 +155,8 @@ Package: mathtools 2015/11/12 v1.18 mathematical typesetting tools
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count103
 \calc@Bcount=\count104
-\calc@Adimen=\dimen122
-\calc@Bdimen=\dimen123
+\calc@Adimen=\dimen123
+\calc@Bdimen=\dimen124
 \calc@Askip=\skip46
 \calc@Bskip=\skip47
 LaTeX Info: Redefining \setlength on input line 80.
@@ -163,34 +172,34 @@ LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
 \g_MT_multlinerow_int=\count106
-\l_MT_multwidth_dim=\dimen124
+\l_MT_multwidth_dim=\dimen125
 \origjot=\skip49
-\l_MT_shortvdotswithinadjustabove_dim=\dimen125
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen126
-\l_MT_above_intertext_sep=\dimen127
-\l_MT_below_intertext_sep=\dimen128
-\l_MT_above_shortintertext_sep=\dimen129
-\l_MT_below_shortintertext_sep=\dimen130
+\l_MT_shortvdotswithinadjustabove_dim=\dimen126
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen127
+\l_MT_above_intertext_sep=\dimen128
+\l_MT_below_intertext_sep=\dimen129
+\l_MT_above_shortintertext_sep=\dimen130
+\l_MT_below_shortintertext_sep=\dimen131
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\multicol.sty"
 Package: multicol 2015/08/19 v1.8n multicolumn formatting (FMi)
 \c@tracingmulticols=\count107
 \mult@box=\box28
-\multicol@leftmargin=\dimen131
+\multicol@leftmargin=\dimen132
 \c@unbalance=\count108
 \c@collectmore=\count109
 \doublecol@number=\count110
 \multicoltolerance=\count111
 \multicolpretolerance=\count112
-\full@width=\dimen132
-\page@free=\dimen133
-\premulticols=\dimen134
-\postmulticols=\dimen135
+\full@width=\dimen133
+\page@free=\dimen134
+\premulticols=\dimen135
+\postmulticols=\dimen136
 \multicolsep=\skip50
 \multicolbaselineskip=\skip51
 \partial@page=\box29
 \last@line=\box30
-\maxbalancingoverflow=\dimen136
+\maxbalancingoverflow=\dimen137
 \mult@rightbox=\box31
 \mult@grightbox=\box32
 \mult@gfirstbox=\box33
@@ -214,9 +223,9 @@ Package: multicol 2015/08/19 v1.8n multicolumn formatting (FMi)
 \@tempa=\box51
 \c@columnbadness=\count113
 \c@finalcolumnbadness=\count114
-\last@try=\dimen137
-\multicolovershoot=\dimen138
-\multicolundershoot=\dimen139
+\last@try=\dimen138
+\multicolovershoot=\dimen139
+\multicolundershoot=\dimen140
 \mult@nat@firstbox=\box52
 \colbreak@box=\box53
 \mc@col@check@num=\count115
@@ -240,13 +249,13 @@ LaTeX Font Info:    ... okay on input line 8.
 (C:\Users\Swilery\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count116
-\scratchdimen=\dimen140
+\scratchdimen=\dimen141
 \scratchbox=\box54
 \nofMPsegments=\count117
 \nofMParguments=\count118
 \everyMPshowfont=\toks21
 \MPscratchCnt=\count119
-\MPscratchDim=\dimen141
+\MPscratchDim=\dimen142
 \MPnumerator=\count120
 \makeMPintoPDFobject=\count121
 \everyMPtoPDFconversion=\toks22
@@ -480,29 +489,270 @@ Missing character: There is no ™ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
- [10] (cheatsheet.aux) ) 
+ [10]
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+ [11]
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ˜ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+ [12] <moredetails.png, id=61, 197.23688pt x 88.07906pt>
+File: moredetails.png Graphic file (type png)
+
+<use moredetails.png>
+Package pdftex.def Info: moredetails.png used on input line 387.
+(pdftex.def)             Requested size: 197.23637pt x 88.07883pt.
+ <srwaa.png, id=62, 247.67531pt x 101.62968pt>
+File: srwaa.png Graphic file (type png)
+
+<use srwaa.png>
+Package pdftex.def Info: srwaa.png used on input line 393.
+(pdftex.def)             Requested size: 247.6747pt x 101.62943pt.
+ <blearchitecture.png, id=63, 185.19188pt x 140.02313pt>
+File: blearchitecture.png Graphic file (type png)
+
+<use blearchitecture.png>
+Package pdftex.def Info: blearchitecture.png used on input line 397.
+(pdftex.def)             Requested size: 185.1914pt x 140.02278pt.
+ <dualmodestack.png, id=64, 76.78688pt x 112.92188pt>
+File: dualmodestack.png Graphic file (type png)
+
+<use dualmodestack.png>
+Package pdftex.def Info: dualmodestack.png used on input line 397.
+(pdftex.def)             Requested size: 76.78668pt x 112.92159pt.
+ <llstatemachine.png, id=65, 182.93344pt x 121.95563pt>
+File: llstatemachine.png Graphic file (type png)
+
+<use llstatemachine.png>
+Package pdftex.def Info: llstatemachine.png used on input line 402.
+(pdftex.def)             Requested size: 182.93298pt x 121.9553pt.
+ <advertising.png, id=66, 230.36063pt x 68.50594pt>
+[13 <./moredetails.png> <./srwaa.png> <./blearchitecture.png> <./dualmodestack.
+png>]
+File: advertising.png Graphic file (type png)
+ <use advertising.png>
+Package pdftex.def Info: advertising.png used on input line 404.
+(pdftex.def)             Requested size: 230.36005pt x 68.50577pt.
+
+<datatransaction.png, id=71, 218.31563pt x 75.28125pt>
+File: datatransaction.png Graphic file (type png)
+
+<use datatransaction.png>
+Package pdftex.def Info: datatransaction.png used on input line 408.
+(pdftex.def)             Requested size: 218.31508pt x 75.28105pt.
+ <latency.png, id=72, 166.37157pt x 87.32625pt>
+File: latency.png Graphic file (type png)
+
+<use latency.png>
+Package pdftex.def Info: latency.png used on input line 412.
+(pdftex.def)             Requested size: 166.37114pt x 87.32603pt.
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 418--419
+\OT1/cmr/m/n/10 trolled/predictable/unpredictable/restricted/unrestricted, op-
+ []
+
+[14 <./llstatemachine.png> <./advertising.png> <./datatransaction.png> <./laten
+cy.png>] <harvestingaware.png, id=76, 234.1247pt x 95.6072pt>
+File: harvestingaware.png Graphic file (type png)
+
+<use harvestingaware.png>
+Package pdftex.def Info: harvestingaware.png used on input line 420.
+(pdftex.def)             Requested size: 234.12411pt x 95.60695pt.
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+ [15 <./harvestingaware.png>]
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+ [16]
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+
+<mac.png, id=85, 209.28188pt x 94.85437pt>
+File: mac.png Graphic file (type png)
+ <use mac.png>
+Package pdftex.def Info: mac.png used on input line 485.
+(pdftex.def)             Requested size: 209.28134pt x 94.85413pt.
+
+<ds.png, id=86, 231.86626pt x 148.30406pt>
+File: ds.png Graphic file (type png)
+ <use ds.png>
+Package pdftex.def Info: ds.png used on input line 491.
+(pdftex.def)             Requested size: 231.86568pt x 148.30368pt.
+ [17 <./mac.png>]
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+
+<8021x.png, id=91, 230.36063pt x 162.6075pt>
+File: 8021x.png Graphic file (type png)
+ <use 8021x.png>
+Package pdftex.def Info: 8021x.png used on input line 503.
+(pdftex.def)             Requested size: 230.36005pt x 162.6071pt.
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+
+<pdrss.png, id=92, 242.40562pt x 61.73062pt>
+File: pdrss.png Graphic file (type png)
+ <use pdrss.png>
+Package pdftex.def Info: pdrss.png used on input line 521.
+(pdftex.def)             Requested size: 242.40501pt x 61.73045pt.
+ [18 <./ds.png> <./8021x.png>] <ariadnerreq.png, id=96, 191.9672pt x 149.05687p
+t>
+File: ariadnerreq.png Graphic file (type png)
+
+<use ariadnerreq.png>
+Package pdftex.def Info: ariadnerreq.png used on input line 549.
+(pdftex.def)             Requested size: 191.96672pt x 149.0565pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 551--554
+\OT1/cmr/m/n/10 over-head to pre-vent DoS while us-ing TESLA for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 551--554
+\OT1/cmr/m/n/10 au-then-ti-cat-ing rout-ing path nodes. Main-te-nance
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 551--554
+\OT1/cmr/m/n/10 - $(\OML/cmm/m/it/10 RE\OMS/cmsy/m/n/10 jj\OML/cmm/m/it/10 B; D
+\OMS/cmsy/m/n/10 jj\OML/cmm/m/it/10 t[]\OMS/cmsy/m/n/10 jj\OML/cmm/m/it/10 MAC[
+]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 RE\OMS/cmsy/m/n/10 jj\OML/cmm/m/it/10 B; D\O
+MS/cmsy/m/n/10 jj\OML/cmm/m/it/10 t[]\OT1/cmr/m/n/10 )\OMS/cmsy/m/n/10 jj\OML/c
+mm/m/it/10 K[]\OT1/cmr/m/n/10 )$ and
+ []
+
+[19 <./pdrss.png> <./ariadnerreq.png>] [20] (cheatsheet.aux) ) 
 Here is how much of TeX's memory you used:
- 2917 strings out of 493634
- 41266 string characters out of 3141309
- 144544 words of memory out of 3000000
- 6294 multiletter control sequences out of 15000+200000
- 5612 words of font info for 21 fonts, out of 3000000 for 9000
+ 3024 strings out of 493634
+ 44753 string characters out of 3141309
+ 127775 words of memory out of 3000000
+ 6381 multiletter control sequences out of 15000+200000
+ 6656 words of font info for 24 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 27i,8n,32p,4971b,235s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/a
-msfonts/cm/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/ams
-fonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfo
-nts/cm/cmex10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmmi10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmmi5.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
-cmmi7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr
-10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.p
-fb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><
-C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:
-/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on cheatsheet.pdf (10 pages, 309844 bytes).
+ 27i,8n,32p,7127b,286s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files
+ (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files (
+x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x8
+6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files (x86)
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cmextra/cmex7.pfb><C:/Program Files (x8
+6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files (x86)
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Program Files (x86)/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files (x86)/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmsy5.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmti7.pfb>
+Output written on cheatsheet.pdf (20 pages, 621913 bytes).
 PDF statistics:
- 90 PDF objects out of 1000 (max. 8388607)
+ 148 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 126 words of extra memory for PDF output out of 10000 (max. 10000000)
 
