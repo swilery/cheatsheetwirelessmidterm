@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.12.21)  3 MAY 2017 20:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.12.21)  3 MAY 2017 21:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -779,6 +779,12 @@ ML/cmm/m/it/9 MAC[]\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 RE\OMS/cmsy/m/n/9 jj\OML/cmm
 9 jj\OML/cmm/m/it/9 K[]\OT1/cmr/m/n/9 )$
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 569--570
+\OT1/cmr/bx/n/9 Wireless Com-mu-ni-ca-tion\OT1/cmr/m/n/9 : Medium: Ra-dio fre-q
+uency,
+ []
+
 Missing character: There is no â in font cmr9!
 Missing character: There is no € in font cmr9!
 Missing character: There is no ™ in font cmr9!
@@ -791,16 +797,13 @@ Missing character: There is no ™ in font cmr9!
 Missing character: There is no â in font cmr9!
 Missing character: There is no € in font cmr9!
 Missing character: There is no “ in font cmr9!
-Missing character: There is no â in font cmr9!
-Missing character: There is no € in font cmr9!
-Missing character: There is no “ in font cmr9!
-[17 <./ariadnerreq.png>]
 Missing character: There is no â in font cmr9!
 Missing character: There is no € in font cmr9!
 Missing character: There is no “ in font cmr9!
 Missing character: There is no ï in font cmr9!
 Missing character: There is no ¿ in font cmr9!
 Missing character: There is no ¼ in font cmr9!
+[17 <./ariadnerreq.png>]
 Missing character: There is no â in font cmr9!
 Missing character: There is no € in font cmr9!
 Missing character: There is no ™ in font cmr9!
@@ -827,12 +830,6 @@ Missing character: There is no “ in font cmr9!
 Missing character: There is no â in font cmbx9!
 Missing character: There is no € in font cmbx9!
 Missing character: There is no “ in font cmbx9!
-Missing character: There is no â in font cmr9!
-Missing character: There is no € in font cmr9!
-Missing character: There is no ¢ in font cmr9!
-Missing character: There is no â in font cmr9!
-Missing character: There is no € in font cmr9!
-Missing character: There is no ¢ in font cmr9!
 Missing character: There is no ï in font cmr9!
 Missing character: There is no ¿ in font cmr9!
 Missing character: There is no ¼ in font cmr9!
@@ -849,11 +846,11 @@ Missing character: There is no ¢ in font cmr9!
 Here is how much of TeX's memory you used:
  3384 strings out of 494910
  50752 string characters out of 6179835
- 142930 words of memory out of 5000000
+ 140654 words of memory out of 5000000
  6616 multiletter control sequences out of 15000+600000
  8409 words of font info for 30 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 38i,8n,32p,7124b,237s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,8n,32p,7124b,239s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/ams
 fonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra
@@ -868,7 +865,7 @@ st/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts
 public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmti7.pfb>
-Output written on cheatsheet.pdf (18 pages, 609942 bytes).
+Output written on cheatsheet.pdf (18 pages, 609341 bytes).
 PDF statistics:
  143 PDF objects out of 1000 (max. 8388607)
  83 compressed objects within 1 object stream
