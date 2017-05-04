@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.12.21)  3 MAY 2017 20:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.12.21)  3 MAY 2017 20:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -849,7 +849,7 @@ Missing character: There is no ¢ in font cmr9!
 Here is how much of TeX's memory you used:
  3384 strings out of 494910
  50752 string characters out of 6179835
- 141373 words of memory out of 5000000
+ 142930 words of memory out of 5000000
  6616 multiletter control sequences out of 15000+600000
  8409 words of font info for 30 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
@@ -868,7 +868,7 @@ st/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts
 public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmti7.pfb>
-Output written on cheatsheet.pdf (18 pages, 609861 bytes).
+Output written on cheatsheet.pdf (18 pages, 609942 bytes).
 PDF statistics:
  143 PDF objects out of 1000 (max. 8388607)
  83 compressed objects within 1 object stream
